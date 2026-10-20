@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Performance and Customer Analytics
 
 ## Project Overview
@@ -54,3 +55,7 @@ Sales revenue is not profit because the dataset does not provide product costs o
 **Clinton Marwoka Onduko**
 
 Data Analytics 
+=======
+# sales-customer-analytics
+Sales performance analysis, customer segmentation, and Power BI dashboard using Python.
+>>>>>>> 3e23f2d5be63046841bc5d215bb2ef3599f21f8a
